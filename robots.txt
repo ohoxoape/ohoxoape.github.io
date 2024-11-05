@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ohoxoape.github.io/Gof/sitemap_index.txt
+Sitemap: https://ohoxoape.github.io/Xvu/sitemap_index.txt
+Sitemap: https://ohoxoape.github.io/enP/sitemap_index.txt
+Sitemap: https://ohoxoape.github.io/gOc/sitemap_index.txt
